@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_Web", "Practica_Web\Practica_Web.csproj", "{70D891A2-21DA-4DF0-A281-380FA88156C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{5F0A9381-5041-48E4-B144-7B6773B9C9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{4EF14009-A4D5-43DA-A945-F3682E66A2BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D891A2-21DA-4DF0-A281-380FA88156C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D891A2-21DA-4DF0-A281-380FA88156C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D891A2-21DA-4DF0-A281-380FA88156C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D891A2-21DA-4DF0-A281-380FA88156C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0A9381-5041-48E4-B144-7B6773B9C9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0A9381-5041-48E4-B144-7B6773B9C9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0A9381-5041-48E4-B144-7B6773B9C9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0A9381-5041-48E4-B144-7B6773B9C9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF14009-A4D5-43DA-A945-F3682E66A2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF14009-A4D5-43DA-A945-F3682E66A2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF14009-A4D5-43DA-A945-F3682E66A2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF14009-A4D5-43DA-A945-F3682E66A2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D264C2-6B24-4679-A55B-A4F3A33E7C51}
+	EndGlobalSection
+EndGlobal
